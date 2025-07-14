@@ -12,4 +12,9 @@ $ npm install -g http-server
 
 $ http-server .
 
+Jika ingin simple, tanpa menggunakan "npm install -g http-server"
+dan "http-server ."
 
+$ termux-open team.html
+
+Lalu buka lewat chrome
