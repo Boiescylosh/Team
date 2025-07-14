@@ -2,7 +2,7 @@ SCRIPT
 
 $ pkg install nodejs
 
-$ https://github.com/Boiescylosh/Team.git
+$ git clone https://github.com/Boiescylosh/Team.git
 
 $ cd Team
 
