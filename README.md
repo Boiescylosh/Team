@@ -18,3 +18,5 @@ dan "http-server ."
 $ termux-open team.html
 
 Lalu buka lewat chrome
+
+ICON $ JANGAN DI COPY
